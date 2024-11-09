@@ -1,0 +1,4 @@
+.history/
+.venv/
+db.sqlite3
+media/
