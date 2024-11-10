@@ -15,7 +15,7 @@ class Video(models.Model):
     num_likes = models.IntegerField(default=0, verbose_name="Número de curtidas", editable=False)
     num_views = models.IntegerField(default=0, verbose_name="Número de visualizações", editable=False)
     tags = models.ManyToManyField("Tag", related_name="videos", verbose_name="Tags")
-    author = models.ForeignKey("auth.User", on_delete=models.PROTECT, editable=False)
+    author = models.ForeignKey("auth.User", on_delete=models.PROTECT, editable=False, verbose_name="Autor")
 
     def save(self, *args, **kwargs):
         if self.is_published and not self.published_at:
