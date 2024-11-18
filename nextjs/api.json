@@ -1,0 +1,104 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"title": "Understanding JavaScript Closures",
+			"description": "A deep dive into closures in JavaScript and how to use them effectively.",
+			"thumbnail": "http://localhost:9000/thumbnail-01.png",
+			"slug": "understanding-javascript-closures",
+			"published_at": "2023-01-15T10:00:00Z",
+			"num_likes": 120,
+			"num_views": 1500
+		},
+		{
+			"id": 2,
+			"title": "Mastering Python Decorators",
+			"description": "Learn how to create and use decorators in Python to enhance your code.",
+			"thumbnail": "http://localhost:9000/thumbnail-02.png",
+			"slug": "mastering-python-decorators",
+			"published_at": "2023-02-20T12:00:00Z",
+			"num_likes": 200,
+			"num_views": 2500
+		},
+		{
+			"id": 3,
+			"title": "React Hooks in Depth",
+			"description": "An in-depth look at React Hooks and how they can simplify your React code.",
+			"thumbnail": "http://localhost:9000/thumbnail-03.png",
+			"slug": "react-hooks-in-depth",
+			"published_at": "2023-03-10T14:00:00Z",
+			"num_likes": 300,
+			"num_views": 3500
+		},
+		{
+			"id": 4,
+			"title": "Building RESTful APIs with Node.js",
+			"description": "Step-by-step guide to building RESTful APIs using Node.js and Express.",
+			"thumbnail": "http://localhost:9000/thumbnail-04.png",
+			"slug": "building-restful-apis-with-nodejs",
+			"published_at": "2023-04-05T16:00:00Z",
+			"num_likes": 250,
+			"num_views": 4000
+		},
+		{
+			"id": 5,
+			"title": "CSS Grid Layout Tutorial",
+			"description": "Learn how to create complex layouts easily with CSS Grid.",
+			"thumbnail": "http://localhost:9000/thumbnail-05.png",
+			"slug": "css-grid-layout-tutorial",
+			"published_at": "2023-05-12T18:00:00Z",
+			"num_likes": 180,
+			"num_views": 2200
+		},
+		{
+			"id": 6,
+			"title": "Introduction to TypeScript",
+			"description": "Get started with TypeScript and learn its basic features and benefits.",
+			"thumbnail": "http://localhost:9000/thumbnail-06.png",
+			"slug": "introduction-to-typescript",
+			"published_at": "2023-06-20T20:00:00Z",
+			"num_likes": 220,
+			"num_views": 2700
+		},
+		{
+			"id": 7,
+			"title": "Advanced Git Techniques",
+			"description": "Take your Git skills to the next level with these advanced techniques.",
+			"thumbnail": "http://localhost:9000/thumbnail-07.png",
+			"slug": "advanced-git-techniques",
+			"published_at": "2023-07-15T22:00:00Z",
+			"num_likes": 150,
+			"num_views": 1800
+		},
+		{
+			"id": 8,
+			"title": "Building Mobile Apps with Flutter",
+			"description": "Learn how to build beautiful and performant mobile apps using Flutter.",
+			"thumbnail": "http://localhost:9000/thumbnail-08.png",
+			"slug": "building-mobile-apps-with-flutter",
+			"published_at": "2023-08-25T08:00:00Z",
+			"num_likes": 270,
+			"num_views": 3200
+		},
+		{
+			"id": 9,
+			"title": "Docker for Beginners",
+			"description": "A beginner's guide to containerization with Docker.",
+			"thumbnail": "http://localhost:9000/thumbnail-09.png",
+			"slug": "docker-for-beginners",
+			"published_at": "2023-09-10T10:00:00Z",
+			"num_likes": 190,
+			"num_views": 2100
+		},
+		{
+			"id": 10,
+			"title": "Kubernetes Essentials",
+			"description": "Learn the essentials of Kubernetes and how to orchestrate containers.",
+			"thumbnail": "http://localhost:9000/thumbnail-10.png",
+			"slug": "kubernetes-essentials",
+			"published_at": "2023-10-05T12:00:00Z",
+			"num_likes": 230,
+			"num_views": 2600
+		}
+	]
+}
